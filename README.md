@@ -1,3 +1,3 @@
 # conflict-resolution
 
-Changes made locally
+Changes made locally & on Github
